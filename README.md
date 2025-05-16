@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Carlos Loja</h1>
-<h3 align="center">Student at ESPOL, Ecuador🌟.</h3>
+<h3 align="center">Consultant at North Highland, Ecuador🌟.</h3>
 
 
 <br>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me <a href="https://www.carlosloja.tech/">**carlosloja.tech**</a>
+- 📫 How to reach me <a href="https://www.caloja.dev/">**carlosloja.tech**</a>
 
 - ⚡ Fun fact :- Food, Pets and Music🎵 are the reasons to live.
 
