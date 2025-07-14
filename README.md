@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me <a href="https://www.caloja.dev/">**carlosloja.tech**</a>
+- 📫 How to reach me <a href="https://www.caloja.dev/">**caloja.dev**</a>
 
 - ⚡ Fun fact :- Food, Pets and Music🎵 are the reasons to live.
 
